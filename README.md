@@ -4,7 +4,7 @@
 
 ## Your short description
 - 🔭 I’m currently working on - :Codica
-- 🌱 I’m currently learning - Python && JS/TS
+- 🌱 I’m currently learning - GO // FullStack JS
 - 💬 Ask me about - code
 
 <!-- ❔❔❔❔ means username in below README.md -->
